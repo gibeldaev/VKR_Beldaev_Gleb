@@ -1,0 +1,9 @@
+numpy 1.24.4
+pandas 2.3.3
+scikit-learn 1.2.2
+torch 2.11.0+cpu
+transformers 4.40.2
+
+Training time: 
+1) 1.61 min
+2) 2.42 min
